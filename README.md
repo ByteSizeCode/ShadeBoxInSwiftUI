@@ -3,7 +3,7 @@ UI shade box experiments in SwiftUI.
 <br />
 <br />
 <img src="Images/demo.png" width="400" alt="drawing"/>
-<img src="Images/demo2.png" width="400" alt="drawing"/>
+<img src="Images/demo2.png" width="404" alt="drawing"/>
 <br />
 Demo:
 <br />
